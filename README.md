@@ -47,6 +47,7 @@ jupyter notebook notebooks/model_training_pytorch.ipynb
 ## Resultados
 Os resultados do modelo de detecção de fraude serão avaliados com métricas de precisão, recall, F1-score e matriz de confusão
 
-<img width="889" alt="Captura de Tela 2024-08-03 às 17 01 25" src="https://github.com/user-attachments/assets/f0bbf1a6-eaa4-4a1a-9d5b-338b9e32cc06">
+<img width="889" alt="Captura de Tela 2024-08-03 às 17 01 25" src="https://github.com/user-attachments/assets/703534a8-d3df-4fa8-bbd4-891787298adb">
 
-<img width="900" alt="Captura de Tela 2024-08-03 às 17 01 42" src="https://github.com/user-attachments/assets/11e52d33-d2ff-4824-9c29-4f629c5f00d4">
+<img width="900" alt="Captura de Tela 2024-08-03 às 17 01 42" src="https://github.com/user-attachments/assets/80afe2ce-7f19-44a8-9ed1-34ca2767c0ca">
+
