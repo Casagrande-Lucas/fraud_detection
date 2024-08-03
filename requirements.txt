@@ -1,0 +1,10 @@
+pandas~=2.2.2
+scikit-learn~=1.5.1
+matplotlib
+seaborn
+jupyter
+torch
+torchvision
+
+
+numpy~=2.0.1
